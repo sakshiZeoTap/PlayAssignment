@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.thibaultmeyer:play-rabbitmq-module:release~20.08:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/jitpack.io/com/github/thibaultmeyer/play-rabbitmq-module/release~20.08/play-rabbitmq-module-release~20.08.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/jitpack.io/com/github/thibaultmeyer/play-rabbitmq-module/release~20.08/play-rabbitmq-module-release~20.08-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Library/Caches/Coursier/v1/https/jitpack.io/com/github/thibaultmeyer/play-rabbitmq-module/release~20.08/play-rabbitmq-module-release~20.08-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
